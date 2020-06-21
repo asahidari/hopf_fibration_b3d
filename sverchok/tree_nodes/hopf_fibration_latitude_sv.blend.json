@@ -1,0 +1,739 @@
+{
+  "export_version": "0.079",
+  "framed_nodes": {},
+  "groups": {},
+  "nodes": {
+    "A Number.001": {
+      "bl_idname": "SvNumberNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -1391.7685546875,
+        163.17942810058594
+      ],
+      "params": {
+        "float_": 0.0,
+        "float_draft_": 0.0,
+        "int_": 0,
+        "int_draft_": 0
+      },
+      "width": 140.0
+    },
+    "Color in": {
+      "bl_idname": "SvColorsInNodeMK1",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        877.5509033203125,
+        143.7832794189453
+      ],
+      "params": {},
+      "width": 110.0
+    },
+    "Constant List": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        646.635498046875,
+        126.05596160888672
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.001": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        648.2327880859375,
+        -40.01573944091797
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.002": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        645.0380859375,
+        -202.89376831054688
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "List Length": {
+      "bl_idname": "ListLengthNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        429.38922119140625,
+        158.63177490234375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Matrix In": {
+      "bl_idname": "SvMatrixInNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        463.822509765625,
+        778.5836791992188
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Object ID Out MK2": {
+      "bl_idname": "SvObjectToMeshNodeMK2",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        128.64015197753906,
+        477.99493408203125
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Polyline Viewer": {
+      "bl_idname": "SvPolylineViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -105.49457550048828,
+        502.6333312988281
+      ],
+      "params": {
+        "basedata_name": "Omicron",
+        "close": 1,
+        "depth": 0.3199999928474426,
+        "radii": 0.05999999865889549,
+        "resolution": 5
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scalar Math": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -820.0444946289062,
+        321.9048767089844
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 6.283184051513672,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.001": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -818.54443359375,
+        180.9430389404297
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 1.5707999467849731,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.002": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -818.54443359375,
+        39.981201171875
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 1.570796012878418,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.011": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -1122.679443359375,
+        57.422088623046875
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scripted Node Lite": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -597.1707763671875,
+        209.3571014404297
+      ],
+      "params": {
+        "float_list": [
+          0.0,
+          1.5707999467849731,
+          1.5707999467849731,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          0,
+          0,
+          24,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_latitude_sv.py",
+        "script_str": "\"\"\"\nin init_pos s d=0.0 n=2\nin final_pos s d=1.5708 n=2\nin polar s d=1.5708 n=2\nin division s d=10 n=2\nout verts v\n\"\"\"\n\nimport math\n\np = init_pos\nq = final_pos\n\nverts = [[]]\nv = []\nfor i in range(division):\n    r = 1\n    az = p + (i/division) * (q - p)\n    v.append((r*math.cos(az)*math.sin(polar), r*math.sin(az)*math.sin(polar), r*math.cos(polar)))\n    # v.append((r, phi, theta))\nverts[0] = v"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scripted Node Lite.001": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -328.7796630859375,
+        289.93548583984375
+      ],
+      "params": {
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          80,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_sv.py",
+        "script_str": "\"\"\"\nin verts_in v d=[] n=1\nin num s d=10 n=2\nout verts_out v\nout edges_out s\n\"\"\"\n\nimport numpy as np\nimport math\n\n# total = len(verts_in)\n# print(total)\nverts_out = [] # *total\nedges_out = [] # *total\n\nfor i, vert in enumerate(verts_in):\n    a, b, c = vert[0], vert[1], vert[2]\n    verts = []\n    edge_set = set()\n    if c >= 0.997:\n        z_ = np.linspace(-1, 1, num)\n        v = []\n        for z in z_:\n            v.append((0, 0, z))\n        verts = v\n    elif c == -1.:\n        t_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for t in t_:\n            v.append((0.5*math.cos(t), 0.5*math.sin(t), 0))\n        verts = v\n    else:\n        alpha = math.sqrt(0.5 * (1 + c))\n        beta = math.sqrt(0.5 * (1 - c))\n\n        phi_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for phi in phi_:\n            theta = math.atan2(a, b) - phi\n            w, x, y, z = alpha * math.cos(theta), -1 * beta * math.cos(phi), -1 * beta * math.sin(phi), alpha * math.sin(theta)\n            rr = math.acos(w) * (1./math.pi) * (1./math.sqrt(1-w**2))\n            v.append((x*rr, y*rr, z*rr))\n        verts = v\n    \n    verts_out.append(verts)\n            \n    for j in range(num-1):\n        edge_set.add(tuple([j, j+1]))\n    if c < 0.997:\n        edge_set.add(tuple([num-1, 0]))\n    edges_out.append(list(edge_set))\n"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Sphere": {
+      "bl_idname": "SphereNode",
+      "color": [
+        0.0,
+        0.5,
+        0.5
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -650.775390625,
+        854.275634765625
+      ],
+      "params": {},
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Vector Math": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -76.01022338867188,
+        -29.05576515197754
+      ],
+      "params": {
+        "current_op": "ADD"
+      },
+      "width": 140.0
+    },
+    "Vector Math.001": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        108.23208618164062,
+        -32.841529846191406
+      ],
+      "params": {
+        "amount": 2.0,
+        "current_op": "1/SCALAR",
+        "socket_info": "vs v"
+      },
+      "width": 140.0
+    },
+    "Vector in.002": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        287.733154296875,
+        790.5913696289062
+      ],
+      "params": {
+        "x_": 3.5,
+        "y_": 3.5,
+        "z_": 4.0
+      },
+      "width": 100.0
+    },
+    "Vector in.003": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        286.36663818359375,
+        649.8846435546875
+      ],
+      "params": {
+        "x_": 5.0,
+        "y_": 5.0,
+        "z_": 5.0
+      },
+      "width": 100.0
+    },
+    "Vector in.004": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -307.4071960449219,
+        -130.59275817871094
+      ],
+      "params": {
+        "x_": 1.0,
+        "y_": 1.0,
+        "z_": 1.0
+      },
+      "width": 100.0
+    },
+    "Vector out": {
+      "bl_idname": "VectorsOutNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        277.9022521972656,
+        -35.15824890136719
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Vertex color mk3": {
+      "bl_idname": "SvVertexColorNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        1185.3492431640625,
+        347.186279296875
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Viewer BMesh": {
+      "bl_idname": "SvBmeshViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        712.7446899414062,
+        761.3367919921875
+      ],
+      "params": {
+        "basedata_name": "Pi"
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer Draw Mk3": {
+      "bl_idname": "SvVDExperimental",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -413.14508056640625,
+        926.7927856445312
+      ],
+      "params": {
+        "activate": 1,
+        "display_edges": 0,
+        "display_verts": 0
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer Draw Mk3.001": {
+      "bl_idname": "SvVDExperimental",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -378.319091796875,
+        610.2708740234375
+      ],
+      "params": {},
+      "use_custom_color": true,
+      "width": 140.0
+    }
+  },
+  "update_lists": [
+    [
+      "Vector in.002",
+      0,
+      "Matrix In",
+      0
+    ],
+    [
+      "Vector in.003",
+      0,
+      "Matrix In",
+      1
+    ],
+    [
+      "A Number.001",
+      0,
+      "Scalar Math",
+      1
+    ],
+    [
+      "A Number.001",
+      0,
+      "Scalar Math.011",
+      1
+    ],
+    [
+      "Scalar Math.011",
+      0,
+      "Scalar Math.001",
+      1
+    ],
+    [
+      "Scalar Math",
+      0,
+      "Scripted Node Lite",
+      0
+    ],
+    [
+      "Scalar Math.001",
+      0,
+      "Scripted Node Lite",
+      1
+    ],
+    [
+      "Scalar Math.002",
+      0,
+      "Scripted Node Lite",
+      2
+    ],
+    [
+      "Scripted Node Lite",
+      0,
+      "Scripted Node Lite.001",
+      0
+    ],
+    [
+      "Scripted Node Lite.001",
+      0,
+      "Polyline Viewer",
+      0
+    ],
+    [
+      "Polyline Viewer",
+      0,
+      "Object ID Out MK2",
+      0
+    ],
+    [
+      "Object ID Out MK2",
+      0,
+      "Viewer BMesh",
+      0
+    ],
+    [
+      "Object ID Out MK2",
+      2,
+      "Viewer BMesh",
+      1
+    ],
+    [
+      "Object ID Out MK2",
+      3,
+      "Viewer BMesh",
+      2
+    ],
+    [
+      "Matrix In",
+      0,
+      "Viewer BMesh",
+      4
+    ],
+    [
+      "Scripted Node Lite",
+      0,
+      "Vector Math",
+      0
+    ],
+    [
+      "Vector in.004",
+      0,
+      "Vector Math",
+      1
+    ],
+    [
+      "Object ID Out MK2",
+      0,
+      "List Length",
+      0
+    ],
+    [
+      "Scripted Node Lite",
+      0,
+      "Viewer Draw Mk3.001",
+      0
+    ],
+    [
+      "Vector Math",
+      0,
+      "Vector Math.001",
+      0
+    ],
+    [
+      "Vector Math.001",
+      0,
+      "Vector out",
+      0
+    ],
+    [
+      "Vector out",
+      2,
+      "Constant List.002",
+      0
+    ],
+    [
+      "List Length",
+      0,
+      "Constant List.002",
+      2
+    ],
+    [
+      "Vector out",
+      1,
+      "Constant List.001",
+      0
+    ],
+    [
+      "List Length",
+      0,
+      "Constant List.001",
+      2
+    ],
+    [
+      "Vector out",
+      0,
+      "Constant List",
+      0
+    ],
+    [
+      "List Length",
+      0,
+      "Constant List",
+      2
+    ],
+    [
+      "Constant List",
+      0,
+      "Color in",
+      0
+    ],
+    [
+      "Constant List.001",
+      0,
+      "Color in",
+      1
+    ],
+    [
+      "Constant List.002",
+      0,
+      "Color in",
+      2
+    ],
+    [
+      "Viewer BMesh",
+      0,
+      "Vertex color mk3",
+      0
+    ],
+    [
+      "Color in",
+      0,
+      "Vertex color mk3",
+      2
+    ],
+    [
+      "Sphere",
+      0,
+      "Viewer Draw Mk3",
+      0
+    ],
+    [
+      "Sphere",
+      1,
+      "Viewer Draw Mk3",
+      1
+    ],
+    [
+      "Sphere",
+      2,
+      "Viewer Draw Mk3",
+      2
+    ]
+  ]
+}

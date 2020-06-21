@@ -1,0 +1,2047 @@
+{
+  "export_version": "0.079",
+  "framed_nodes": {},
+  "groups": {},
+  "nodes": {
+    "A Number.001": {
+      "bl_idname": "SvNumberNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -1938.61279296875,
+        -308.2704772949219
+      ],
+      "params": {
+        "float_": 0.0,
+        "float_draft_": 0.0,
+        "int_": 0,
+        "int_draft_": 0
+      },
+      "width": 140.0
+    },
+    "Color in": {
+      "bl_idname": "SvColorsInNodeMK1",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        877.5509033203125,
+        143.7832794189453
+      ],
+      "params": {},
+      "width": 110.0
+    },
+    "Color in.001": {
+      "bl_idname": "SvColorsInNodeMK1",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        1163.253173828125,
+        -1259.224609375
+      ],
+      "params": {},
+      "width": 110.0
+    },
+    "Color in.002": {
+      "bl_idname": "SvColorsInNodeMK1",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        1146.66796875,
+        -2344.217041015625
+      ],
+      "params": {},
+      "width": 110.0
+    },
+    "Constant List": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        646.635498046875,
+        126.05596160888672
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.001": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        648.2327880859375,
+        -40.01573944091797
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.002": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        645.0380859375,
+        -202.89376831054688
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.003": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        928.7515869140625,
+        -1263.1005859375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.004": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        926.8261108398438,
+        -1430.5667724609375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.005": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        928.7515869140625,
+        -1592.25830078125
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.006": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        903.67578125,
+        -2345.845703125
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.007": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        908.8252563476562,
+        -2527.739501953125
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Constant List.008": {
+      "bl_idname": "SvConstantListNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        910.541748046875,
+        -2718.213134765625
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "List Length": {
+      "bl_idname": "ListLengthNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        429.38922119140625,
+        158.63177490234375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "List Length.001": {
+      "bl_idname": "ListLengthNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        687.4344482421875,
+        -1224.2979736328125
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "List Length.002": {
+      "bl_idname": "ListLengthNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        630.2330932617188,
+        -2244.042724609375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Matrix In": {
+      "bl_idname": "SvMatrixInNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        442.873779296875,
+        796.0779418945312
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Matrix In.001": {
+      "bl_idname": "SvMatrixInNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        422.89215087890625,
+        -617.7135620117188
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Matrix In.002": {
+      "bl_idname": "SvMatrixInNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        497.5072326660156,
+        -1777.5166015625
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Object ID Out MK2": {
+      "bl_idname": "SvObjectToMeshNodeMK2",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        218.6246337890625,
+        488.3435363769531
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Object ID Out MK2.001": {
+      "bl_idname": "SvObjectToMeshNodeMK2",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        365.102783203125,
+        -906.7777709960938
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Object ID Out MK2.002": {
+      "bl_idname": "SvObjectToMeshNodeMK2",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        379.6388854980469,
+        -2050.696044921875
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Polyline Viewer": {
+      "bl_idname": "SvPolylineViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -4.394500732421875,
+        520.8051147460938
+      ],
+      "params": {
+        "basedata_name": "Iota",
+        "close": 1,
+        "depth": 0.3199999928474426,
+        "radii": 0.05999999865889549,
+        "resolution": 5
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Polyline Viewer.001": {
+      "bl_idname": "SvPolylineViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        152.14517211914062,
+        -935.366943359375
+      ],
+      "params": {
+        "basedata_name": "Nu",
+        "close": 1,
+        "depth": 0.3199999928474426,
+        "radii": 0.05999999865889549,
+        "resolution": 5
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Polyline Viewer.002": {
+      "bl_idname": "SvPolylineViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        137.11709594726562,
+        -1976.312744140625
+      ],
+      "params": {
+        "basedata_name": "Lamda",
+        "close": 1,
+        "depth": 0.3199999928474426,
+        "radii": 0.05999999865889549,
+        "resolution": 5
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scalar Math": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -820.0444946289062,
+        321.9048767089844
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 0.0,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.001": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -818.54443359375,
+        180.9430389404297
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 1.5707999467849731,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.002": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -818.54443359375,
+        39.981201171875
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 0.44999998807907104,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.003": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -815.8524169921875,
+        -985.18896484375
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 0.0,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.004": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -813.1832885742188,
+        -1134.6126708984375
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": -1.5707999467849731
+      },
+      "width": 140.0
+    },
+    "Scalar Math.005": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -814.517822265625,
+        -1285.3704833984375
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 1.570796012878418,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.006": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -825.1766357421875,
+        -2137.2353515625
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 0.0,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.007": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -823.6765747070312,
+        -2278.197265625
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 1.5707999467849731,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.008": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -823.6765747070312,
+        -2419.1591796875
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 2.6915900707244873,
+        "y_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.009": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -1058.55419921875,
+        -1163.0045166015625
+      ],
+      "params": {
+        "y_": -1.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.010": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -1073.5059814453125,
+        -958.0239868164062
+      ],
+      "params": {
+        "y_": -1.0
+      },
+      "width": 140.0
+    },
+    "Scalar Math.011": {
+      "bl_idname": "SvScalarMathNodeMK4",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -1478.8807373046875,
+        -288.6422119140625
+      ],
+      "params": {
+        "current_op": "ADD",
+        "x_": 0.0
+      },
+      "width": 140.0
+    },
+    "Scripted Node Lite": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -597.1707763671875,
+        209.3571014404297
+      ],
+      "params": {
+        "float_list": [
+          0.0,
+          1.5707999467849731,
+          1.5707999467849731,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          0,
+          0,
+          24,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_latitude_sv.py",
+        "script_str": "\"\"\"\nin init_pos s d=0.0 n=2\nin final_pos s d=1.5708 n=2\nin polar s d=1.5708 n=2\nin division s d=10 n=2\nout verts v\n\"\"\"\n\nimport math\n\np = init_pos\nq = final_pos\n\nverts = [[]]\nv = []\nfor i in range(division):\n    r = 1\n    az = p + (i/division) * (q - p)\n    v.append((r*math.cos(az)*math.sin(polar), r*math.sin(az)*math.sin(polar), r*math.cos(polar)))\n    # v.append((r, phi, theta))\nverts[0] = v"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scripted Node Lite.001": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -328.7796630859375,
+        289.93548583984375
+      ],
+      "params": {
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          80,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_sv.py",
+        "script_str": "\"\"\"\nin verts_in v d=[] n=1\nin num s d=10 n=2\nout verts_out v\nout edges_out s\n\"\"\"\n\nimport numpy as np\nimport math\n\n# total = len(verts_in)\n# print(total)\nverts_out = [] # *total\nedges_out = [] # *total\n\nfor i, vert in enumerate(verts_in):\n    a, b, c = vert[0], vert[1], vert[2]\n    verts = []\n    edge_set = set()\n    if c >= 0.997:\n        z_ = np.linspace(-1, 1, num)\n        v = []\n        for z in z_:\n            v.append((0, 0, z))\n        verts = v\n    elif c == -1.:\n        t_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for t in t_:\n            v.append((0.5*math.cos(t), 0.5*math.sin(t), 0))\n        verts = v\n    else:\n        alpha = math.sqrt(0.5 * (1 + c))\n        beta = math.sqrt(0.5 * (1 - c))\n\n        phi_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for phi in phi_:\n            theta = math.atan2(a, b) - phi\n            w, x, y, z = alpha * math.cos(theta), -1 * beta * math.cos(phi), -1 * beta * math.sin(phi), alpha * math.sin(theta)\n            rr = math.acos(w) * (1./math.pi) * (1./math.sqrt(1-w**2))\n            v.append((x*rr, y*rr, z*rr))\n        verts = v\n    \n    verts_out.append(verts)\n            \n    for j in range(num-1):\n        edge_set.add(tuple([j, j+1]))\n    if c < 0.997:\n        edge_set.add(tuple([num-1, 0]))\n    edges_out.append(list(edge_set))\n"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scripted Node Lite.002": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -116.93248748779297,
+        -1093.4373779296875
+      ],
+      "params": {
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          80,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_sv.py",
+        "script_str": "\"\"\"\nin verts_in v d=[] n=1\nin num s d=10 n=2\nout verts_out v\nout edges_out s\n\"\"\"\n\nimport numpy as np\nimport math\n\n# total = len(verts_in)\n# print(total)\nverts_out = [] # *total\nedges_out = [] # *total\n\nfor i, vert in enumerate(verts_in):\n    a, b, c = vert[0], vert[1], vert[2]\n    verts = []\n    edge_set = set()\n    if c >= 0.997:\n        z_ = np.linspace(-1, 1, num)\n        v = []\n        for z in z_:\n            v.append((0, 0, z))\n        verts = v\n    elif c == -1.:\n        t_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for t in t_:\n            v.append((0.5*math.cos(t), 0.5*math.sin(t), 0))\n        verts = v\n    else:\n        alpha = math.sqrt(0.5 * (1 + c))\n        beta = math.sqrt(0.5 * (1 - c))\n\n        phi_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for phi in phi_:\n            theta = math.atan2(a, b) - phi\n            w, x, y, z = alpha * math.cos(theta), -1 * beta * math.cos(phi), -1 * beta * math.sin(phi), alpha * math.sin(theta)\n            rr = math.acos(w) * (1./math.pi) * (1./math.sqrt(1-w**2))\n            v.append((x*rr, y*rr, z*rr))\n        verts = v\n    \n    verts_out.append(verts)\n            \n    for j in range(num-1):\n        edge_set.add(tuple([j, j+1]))\n    if c < 0.997:\n        edge_set.add(tuple([num-1, 0]))\n    edges_out.append(list(edge_set))\n"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scripted Node Lite.003": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -616.4421997070312,
+        -1075.185546875
+      ],
+      "params": {
+        "float_list": [
+          0.0,
+          1.5707999467849731,
+          1.5707999467849731,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          0,
+          0,
+          10,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_latitude_sv.py",
+        "script_str": "\"\"\"\nin init_pos s d=0.0 n=2\nin final_pos s d=1.5708 n=2\nin polar s d=1.5708 n=2\nin division s d=10 n=2\nout verts v\n\"\"\"\n\nimport math\n\np = init_pos\nq = final_pos\n\nverts = [[]]\nv = []\nfor i in range(division):\n    r = 1\n    az = p + (i/division) * (q - p)\n    v.append((r*math.cos(az)*math.sin(polar), r*math.sin(az)*math.sin(polar), r*math.cos(polar)))\n    # v.append((r, phi, theta))\nverts[0] = v"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scripted Node Lite.004": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -98.08541870117188,
+        -2202.265625
+      ],
+      "params": {
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          80,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_sv.py",
+        "script_str": "\"\"\"\nin verts_in v d=[] n=1\nin num s d=10 n=2\nout verts_out v\nout edges_out s\n\"\"\"\n\nimport numpy as np\nimport math\n\n# total = len(verts_in)\n# print(total)\nverts_out = [] # *total\nedges_out = [] # *total\n\nfor i, vert in enumerate(verts_in):\n    a, b, c = vert[0], vert[1], vert[2]\n    verts = []\n    edge_set = set()\n    if c >= 0.997:\n        z_ = np.linspace(-1, 1, num)\n        v = []\n        for z in z_:\n            v.append((0, 0, z))\n        verts = v\n    elif c == -1.:\n        t_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for t in t_:\n            v.append((0.5*math.cos(t), 0.5*math.sin(t), 0))\n        verts = v\n    else:\n        alpha = math.sqrt(0.5 * (1 + c))\n        beta = math.sqrt(0.5 * (1 - c))\n\n        phi_ = np.linspace(0, 2*math.pi, num)\n        v = []\n        for phi in phi_:\n            theta = math.atan2(a, b) - phi\n            w, x, y, z = alpha * math.cos(theta), -1 * beta * math.cos(phi), -1 * beta * math.sin(phi), alpha * math.sin(theta)\n            rr = math.acos(w) * (1./math.pi) * (1./math.sqrt(1-w**2))\n            v.append((x*rr, y*rr, z*rr))\n        verts = v\n    \n    verts_out.append(verts)\n            \n    for j in range(num-1):\n        edge_set.add(tuple([j, j+1]))\n    if c < 0.997:\n        edge_set.add(tuple([num-1, 0]))\n    edges_out.append(list(edge_set))\n"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Scripted Node Lite.005": {
+      "bl_idname": "SvScriptNodeLite",
+      "color": [
+        0.0,
+        0.800000011920929,
+        0.949999988079071
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -584.2042846679688,
+        -2220.51708984375
+      ],
+      "params": {
+        "float_list": [
+          0.0,
+          1.5707999467849731,
+          1.5707999467849731,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "halt_updates": 0,
+        "inject_params": 0,
+        "injected_state": 0,
+        "int_list": [
+          0,
+          0,
+          0,
+          24,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "script_name": "hopf_fibration_latitude_sv.py",
+        "script_str": "\"\"\"\nin init_pos s d=0.0 n=2\nin final_pos s d=1.5708 n=2\nin polar s d=1.5708 n=2\nin division s d=10 n=2\nout verts v\n\"\"\"\n\nimport math\n\np = init_pos\nq = final_pos\n\nverts = [[]]\nv = []\nfor i in range(division):\n    r = 1\n    az = p + (i/division) * (q - p)\n    v.append((r*math.cos(az)*math.sin(polar), r*math.sin(az)*math.sin(polar), r*math.cos(polar)))\n    # v.append((r, phi, theta))\nverts[0] = v"
+      },
+      "snlite_ui": [],
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Sphere": {
+      "bl_idname": "SphereNode",
+      "color": [
+        0.0,
+        0.5,
+        0.5
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -650.775390625,
+        854.275634765625
+      ],
+      "params": {},
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Vector Math": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -76.01022338867188,
+        -29.05576515197754
+      ],
+      "params": {
+        "current_op": "ADD"
+      },
+      "width": 140.0
+    },
+    "Vector Math.001": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        108.23208618164062,
+        -32.841529846191406
+      ],
+      "params": {
+        "amount": 2.0,
+        "current_op": "1/SCALAR",
+        "socket_info": "vs v"
+      },
+      "width": 140.0
+    },
+    "Vector Math.002": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        178.77529907226562,
+        -1400.5977783203125
+      ],
+      "params": {
+        "current_op": "ADD"
+      },
+      "width": 140.0
+    },
+    "Vector Math.003": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        381.9625549316406,
+        -1384.9114990234375
+      ],
+      "params": {
+        "amount": 2.0,
+        "current_op": "1/SCALAR",
+        "socket_info": "vs v"
+      },
+      "width": 140.0
+    },
+    "Vector Math.004": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        138.05970764160156,
+        -2486.68017578125
+      ],
+      "params": {
+        "current_op": "ADD"
+      },
+      "width": 140.0
+    },
+    "Vector Math.005": {
+      "bl_idname": "SvVectorMathNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        377.8370361328125,
+        -2489.96240234375
+      ],
+      "params": {
+        "amount": 2.0,
+        "current_op": "1/SCALAR",
+        "socket_info": "vs v"
+      },
+      "width": 140.0
+    },
+    "Vector in.002": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        287.733154296875,
+        790.5913696289062
+      ],
+      "params": {
+        "x_": 3.5,
+        "y_": 3.5,
+        "z_": 4.0
+      },
+      "width": 100.0
+    },
+    "Vector in.003": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        286.36663818359375,
+        649.8846435546875
+      ],
+      "params": {
+        "x_": 5.0,
+        "y_": 5.0,
+        "z_": 5.0
+      },
+      "width": 100.0
+    },
+    "Vector in.004": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -307.4071960449219,
+        -130.59275817871094
+      ],
+      "params": {
+        "x_": 1.0,
+        "y_": 1.0,
+        "z_": 1.0
+      },
+      "width": 100.0
+    },
+    "Vector in.005": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        14.419769287109375,
+        -1521.609619140625
+      ],
+      "params": {
+        "x_": 1.0,
+        "y_": 1.0,
+        "z_": 1.0
+      },
+      "width": 100.0
+    },
+    "Vector in.006": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -38.290122985839844,
+        -2618.593017578125
+      ],
+      "params": {
+        "x_": 1.0,
+        "y_": 1.0,
+        "z_": 1.0
+      },
+      "width": 100.0
+    },
+    "Vector in.007": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        243.87806701660156,
+        -622.941162109375
+      ],
+      "params": {
+        "x_": 3.5,
+        "y_": 3.5,
+        "z_": 4.0
+      },
+      "width": 100.0
+    },
+    "Vector in.008": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        242.5115509033203,
+        -763.6478881835938
+      ],
+      "params": {
+        "x_": 5.0,
+        "y_": 5.0,
+        "z_": 5.0
+      },
+      "width": 100.0
+    },
+    "Vector in.009": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        357.4466552734375,
+        -1733.163330078125
+      ],
+      "params": {
+        "x_": 3.5,
+        "y_": 3.5,
+        "z_": 4.0
+      },
+      "width": 100.0
+    },
+    "Vector in.010": {
+      "bl_idname": "GenVectorsNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        356.08013916015625,
+        -1873.8699951171875
+      ],
+      "params": {
+        "x_": 5.0,
+        "y_": 5.0,
+        "z_": 5.0
+      },
+      "width": 100.0
+    },
+    "Vector out": {
+      "bl_idname": "VectorsOutNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        277.9022521972656,
+        -35.15824890136719
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Vector out.001": {
+      "bl_idname": "VectorsOutNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        551.6326904296875,
+        -1387.228271484375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Vector out.002": {
+      "bl_idname": "VectorsOutNode",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        562.9032592773438,
+        -2507.147705078125
+      ],
+      "params": {},
+      "width": 122.8349609375
+    },
+    "Vertex color mk3": {
+      "bl_idname": "SvVertexColorNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        1078.142333984375,
+        323.41400146484375
+      ],
+      "params": {
+        "use_active": 1
+      },
+      "width": 140.0
+    },
+    "Vertex color mk3.001": {
+      "bl_idname": "SvVertexColorNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        1319.2164306640625,
+        -1051.33544921875
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Vertex color mk3.002": {
+      "bl_idname": "SvVertexColorNodeMK3",
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        1344.7149658203125,
+        -2104.279052734375
+      ],
+      "params": {},
+      "width": 140.0
+    },
+    "Viewer BMesh": {
+      "bl_idname": "SvBmeshViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        635.3843994140625,
+        754.673828125
+      ],
+      "params": {
+        "basedata_name": "Kappa"
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer BMesh.001": {
+      "bl_idname": "SvBmeshViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        648.85693359375,
+        -676.514404296875
+      ],
+      "params": {
+        "basedata_name": "Xi"
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer BMesh.002": {
+      "bl_idname": "SvBmeshViewerNodeV28",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        695.858154296875,
+        -1781.1903076171875
+      ],
+      "params": {
+        "basedata_name": "Mu"
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer Draw Mk3": {
+      "bl_idname": "SvVDExperimental",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -388.1411437988281,
+        1004.934814453125
+      ],
+      "params": {
+        "display_edges": 0,
+        "display_verts": 0
+      },
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer Draw Mk3.001": {
+      "bl_idname": "SvVDExperimental",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -377.5711975097656,
+        633.1449584960938
+      ],
+      "params": {},
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer Draw Mk3.002": {
+      "bl_idname": "SvVDExperimental",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -338.0154724121094,
+        -725.069580078125
+      ],
+      "params": {},
+      "use_custom_color": true,
+      "width": 140.0
+    },
+    "Viewer Draw Mk3.003": {
+      "bl_idname": "SvVDExperimental",
+      "color": [
+        1.0,
+        0.5889999866485596,
+        0.21400000154972076
+      ],
+      "height": 100.0,
+      "hide": false,
+      "label": "",
+      "location": [
+        -337.2789306640625,
+        -1834.4482421875
+      ],
+      "params": {},
+      "use_custom_color": true,
+      "width": 140.0
+    }
+  },
+  "update_lists": [
+    [
+      "A Number.001",
+      0,
+      "Scalar Math",
+      1
+    ],
+    [
+      "A Number.001",
+      0,
+      "Scalar Math.011",
+      1
+    ],
+    [
+      "Scalar Math.011",
+      0,
+      "Scalar Math.007",
+      1
+    ],
+    [
+      "A Number.001",
+      0,
+      "Scalar Math.006",
+      1
+    ],
+    [
+      "Scalar Math.006",
+      0,
+      "Scripted Node Lite.005",
+      0
+    ],
+    [
+      "Scalar Math.007",
+      0,
+      "Scripted Node Lite.005",
+      1
+    ],
+    [
+      "Scalar Math.008",
+      0,
+      "Scripted Node Lite.005",
+      2
+    ],
+    [
+      "Scripted Node Lite.005",
+      0,
+      "Scripted Node Lite.004",
+      0
+    ],
+    [
+      "Scripted Node Lite.004",
+      0,
+      "Polyline Viewer.002",
+      0
+    ],
+    [
+      "Polyline Viewer.002",
+      0,
+      "Object ID Out MK2.002",
+      0
+    ],
+    [
+      "Vector in.009",
+      0,
+      "Matrix In.002",
+      0
+    ],
+    [
+      "Vector in.010",
+      0,
+      "Matrix In.002",
+      1
+    ],
+    [
+      "Object ID Out MK2.002",
+      0,
+      "Viewer BMesh.002",
+      0
+    ],
+    [
+      "Object ID Out MK2.002",
+      2,
+      "Viewer BMesh.002",
+      1
+    ],
+    [
+      "Object ID Out MK2.002",
+      3,
+      "Viewer BMesh.002",
+      2
+    ],
+    [
+      "Matrix In.002",
+      0,
+      "Viewer BMesh.002",
+      4
+    ],
+    [
+      "Scripted Node Lite.005",
+      0,
+      "Vector Math.004",
+      0
+    ],
+    [
+      "Vector in.006",
+      0,
+      "Vector Math.004",
+      1
+    ],
+    [
+      "Vector Math.004",
+      0,
+      "Vector Math.005",
+      0
+    ],
+    [
+      "A Number.001",
+      0,
+      "Scalar Math.010",
+      0
+    ],
+    [
+      "Scalar Math.010",
+      0,
+      "Scalar Math.003",
+      1
+    ],
+    [
+      "Scalar Math.011",
+      0,
+      "Scalar Math.009",
+      0
+    ],
+    [
+      "Scalar Math.009",
+      0,
+      "Scalar Math.004",
+      1
+    ],
+    [
+      "Scalar Math.003",
+      0,
+      "Scripted Node Lite.003",
+      0
+    ],
+    [
+      "Scalar Math.004",
+      0,
+      "Scripted Node Lite.003",
+      1
+    ],
+    [
+      "Scalar Math.005",
+      0,
+      "Scripted Node Lite.003",
+      2
+    ],
+    [
+      "Scripted Node Lite.003",
+      0,
+      "Vector Math.002",
+      0
+    ],
+    [
+      "Vector in.005",
+      0,
+      "Vector Math.002",
+      1
+    ],
+    [
+      "Scripted Node Lite.003",
+      0,
+      "Scripted Node Lite.002",
+      0
+    ],
+    [
+      "Scripted Node Lite.002",
+      0,
+      "Polyline Viewer.001",
+      0
+    ],
+    [
+      "Polyline Viewer.001",
+      0,
+      "Object ID Out MK2.001",
+      0
+    ],
+    [
+      "Scalar Math.011",
+      0,
+      "Scalar Math.001",
+      1
+    ],
+    [
+      "Scalar Math",
+      0,
+      "Scripted Node Lite",
+      0
+    ],
+    [
+      "Scalar Math.001",
+      0,
+      "Scripted Node Lite",
+      1
+    ],
+    [
+      "Scalar Math.002",
+      0,
+      "Scripted Node Lite",
+      2
+    ],
+    [
+      "Scripted Node Lite",
+      0,
+      "Scripted Node Lite.001",
+      0
+    ],
+    [
+      "Scripted Node Lite.001",
+      0,
+      "Polyline Viewer",
+      0
+    ],
+    [
+      "Polyline Viewer",
+      0,
+      "Object ID Out MK2",
+      0
+    ],
+    [
+      "Object ID Out MK2",
+      0,
+      "List Length",
+      0
+    ],
+    [
+      "Scripted Node Lite",
+      0,
+      "Vector Math",
+      0
+    ],
+    [
+      "Vector in.004",
+      0,
+      "Vector Math",
+      1
+    ],
+    [
+      "Vector Math",
+      0,
+      "Vector Math.001",
+      0
+    ],
+    [
+      "Vector Math.001",
+      0,
+      "Vector out",
+      0
+    ],
+    [
+      "Vector out",
+      1,
+      "Constant List.001",
+      0
+    ],
+    [
+      "List Length",
+      0,
+      "Constant List.001",
+      2
+    ],
+    [
+      "Vector out",
+      0,
+      "Constant List",
+      0
+    ],
+    [
+      "List Length",
+      0,
+      "Constant List",
+      2
+    ],
+    [
+      "Vector out",
+      2,
+      "Constant List.002",
+      0
+    ],
+    [
+      "List Length",
+      0,
+      "Constant List.002",
+      2
+    ],
+    [
+      "Constant List",
+      0,
+      "Color in",
+      0
+    ],
+    [
+      "Constant List.001",
+      0,
+      "Color in",
+      1
+    ],
+    [
+      "Constant List.002",
+      0,
+      "Color in",
+      2
+    ],
+    [
+      "Vector in.002",
+      0,
+      "Matrix In",
+      0
+    ],
+    [
+      "Vector in.003",
+      0,
+      "Matrix In",
+      1
+    ],
+    [
+      "Object ID Out MK2",
+      0,
+      "Viewer BMesh",
+      0
+    ],
+    [
+      "Object ID Out MK2",
+      2,
+      "Viewer BMesh",
+      1
+    ],
+    [
+      "Object ID Out MK2",
+      3,
+      "Viewer BMesh",
+      2
+    ],
+    [
+      "Matrix In",
+      0,
+      "Viewer BMesh",
+      4
+    ],
+    [
+      "Viewer BMesh",
+      0,
+      "Vertex color mk3",
+      0
+    ],
+    [
+      "Color in",
+      0,
+      "Vertex color mk3",
+      2
+    ],
+    [
+      "Object ID Out MK2.002",
+      0,
+      "List Length.002",
+      0
+    ],
+    [
+      "Vector Math.005",
+      0,
+      "Vector out.002",
+      0
+    ],
+    [
+      "Vector out.002",
+      1,
+      "Constant List.007",
+      0
+    ],
+    [
+      "List Length.002",
+      0,
+      "Constant List.007",
+      2
+    ],
+    [
+      "Scripted Node Lite",
+      0,
+      "Viewer Draw Mk3.001",
+      0
+    ],
+    [
+      "Vector Math.002",
+      0,
+      "Vector Math.003",
+      0
+    ],
+    [
+      "Vector Math.003",
+      0,
+      "Vector out.001",
+      0
+    ],
+    [
+      "Object ID Out MK2.001",
+      0,
+      "List Length.001",
+      0
+    ],
+    [
+      "Vector out.001",
+      2,
+      "Constant List.005",
+      0
+    ],
+    [
+      "List Length.001",
+      0,
+      "Constant List.005",
+      2
+    ],
+    [
+      "Vector out.001",
+      1,
+      "Constant List.004",
+      0
+    ],
+    [
+      "List Length.001",
+      0,
+      "Constant List.004",
+      2
+    ],
+    [
+      "Vector out.001",
+      0,
+      "Constant List.003",
+      0
+    ],
+    [
+      "List Length.001",
+      0,
+      "Constant List.003",
+      2
+    ],
+    [
+      "Constant List.003",
+      0,
+      "Color in.001",
+      0
+    ],
+    [
+      "Constant List.004",
+      0,
+      "Color in.001",
+      1
+    ],
+    [
+      "Constant List.005",
+      0,
+      "Color in.001",
+      2
+    ],
+    [
+      "Vector in.007",
+      0,
+      "Matrix In.001",
+      0
+    ],
+    [
+      "Vector in.008",
+      0,
+      "Matrix In.001",
+      1
+    ],
+    [
+      "Object ID Out MK2.001",
+      0,
+      "Viewer BMesh.001",
+      0
+    ],
+    [
+      "Object ID Out MK2.001",
+      2,
+      "Viewer BMesh.001",
+      1
+    ],
+    [
+      "Object ID Out MK2.001",
+      3,
+      "Viewer BMesh.001",
+      2
+    ],
+    [
+      "Matrix In.001",
+      0,
+      "Viewer BMesh.001",
+      4
+    ],
+    [
+      "Viewer BMesh.001",
+      0,
+      "Vertex color mk3.001",
+      0
+    ],
+    [
+      "Color in.001",
+      0,
+      "Vertex color mk3.001",
+      2
+    ],
+    [
+      "Scripted Node Lite.003",
+      0,
+      "Viewer Draw Mk3.002",
+      0
+    ],
+    [
+      "Vector out.002",
+      2,
+      "Constant List.008",
+      0
+    ],
+    [
+      "List Length.002",
+      0,
+      "Constant List.008",
+      2
+    ],
+    [
+      "Vector out.002",
+      0,
+      "Constant List.006",
+      0
+    ],
+    [
+      "List Length.002",
+      0,
+      "Constant List.006",
+      2
+    ],
+    [
+      "Constant List.006",
+      0,
+      "Color in.002",
+      0
+    ],
+    [
+      "Constant List.007",
+      0,
+      "Color in.002",
+      1
+    ],
+    [
+      "Constant List.008",
+      0,
+      "Color in.002",
+      2
+    ],
+    [
+      "Viewer BMesh.002",
+      0,
+      "Vertex color mk3.002",
+      0
+    ],
+    [
+      "Color in.002",
+      0,
+      "Vertex color mk3.002",
+      2
+    ],
+    [
+      "Scripted Node Lite.005",
+      0,
+      "Viewer Draw Mk3.003",
+      0
+    ],
+    [
+      "Sphere",
+      0,
+      "Viewer Draw Mk3",
+      0
+    ],
+    [
+      "Sphere",
+      1,
+      "Viewer Draw Mk3",
+      1
+    ],
+    [
+      "Sphere",
+      2,
+      "Viewer Draw Mk3",
+      2
+    ]
+  ]
+}
